@@ -74,6 +74,14 @@ Mar 2021 – Jun 2021 | São Paulo
 
 ---
 
+<div align="center">
+  <br><p align="centre"><b>Profile Visitor Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{samorakc}/count.svg" /></p> 
+  <br>
+</div>
+
+---
+
 ## 🤝 Trabalho Voluntário
 
 **Aluno-Monitor — UNASP**
