@@ -11,13 +11,11 @@ Oi! Eu sou a Karoliny, mas pode me chamar de Karol. Nutricionista por formação
 - **Email:** [krcastro3@gmail.com](mailto:krcastro3@gmail.com)
 - **LinkedIn:** [linkedin.com/in/karolinycs](https://www.linkedin.com/in/karolinycs/)
 - **GitHub:** [github.com/SamoraKC](https://github.com/SamoraKC)
-- **Onde moro:** São José dos Campos, SP, Brasil
-
 ---
 
 ## 😎 Sobre mim
 
-Sou aquela pessoa que não se assusta com uma planilha enorme, nem foge de um processo licitatório cheio de detalhes. Com experiência tanto em gestão administrativa quanto em nutrição (porque sim, dá pra gostar de relatórios e de comida saudável ao mesmo tempo!), trago comigo organização, proatividade e muita vontade de aprender. Falo espanhol quase como uma nativa (¡de verdad!), arranho o inglês e tenho um pézinho na sustentabilidade e segurança alimentar.
+Sou aquela pessoa que não se assusta com uma planilha enorme, nem foge de um processo licitatório cheio de detalhes. Com experiência tanto em gestão administrativa quanto em nutrição (porque sim, dá pra gostar de relatórios e de comida saudável ao mesmo tempo!), trago comigo organização, proatividade e muita vontade de aprender. Falo espanhol (¿¡de verdad!?), tenho um pézinho na ciência de dados e gestão de projetos (o que estou amando aprender)
 
 ---
 
@@ -71,6 +69,8 @@ Mar 2021 – Jun 2021 | São Paulo
 - Gestão de Contratos e Aquisições
 - Monitoramento de KPIs (indicadores são meu playground)
 - Análise Quantitativa e Qualitativa
+- UAN
+- Gestão de Projetos (em desenvolvimento)
 
 ---
 
@@ -78,7 +78,7 @@ Mar 2021 – Jun 2021 | São Paulo
 
 **Aluno-Monitor — UNASP**
 
-- Dei aquele reforço pedagógico maroto nas matérias de Alimentos, Propriedades e Aplicação Dietética III.
+- Dei aquele reforço pedagógico maneiro nas matérias de Alimentos, Propriedades e Aplicação Dietética III, MANUT, UAN.
 - Esclareci dúvidas, ajudei com cálculos de rendimento e preparei revisões para provas. Aprendi e ensinei, tudo junto!
 
 ---
